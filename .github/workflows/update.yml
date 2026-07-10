@@ -1,0 +1,41 @@
+name: Update Blocklists
+
+on:
+  schedule:
+    - cron: "0 */48 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download X4BNet VPN list
+        run: |
+          curl -sL -o lists/vpnip-block.txt \
+            "https://raw.githubusercontent.com/X4BNet/lists_vpn/main/output/vpn/ipv4.txt"
+
+      - name: Download and convert HaGezi bypass list
+        run: |
+          curl -sL -o /tmp/hagezi-raw.txt \
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt"
+          grep -v '^#' /tmp/hagezi-raw.txt | sed 's/^\*\.//' > /tmp/root.txt
+          grep -v '^#' /tmp/hagezi-raw.txt > /tmp/wild.txt
+          cat /tmp/root.txt /tmp/wild.txt | sort -u > lists/vpndomain-block.txt
+
+      - name: Commit and push
+        env:
+          PAT: ${{ secrets.JAMBOEL_REPO_SECRETS }}
+        run: |
+          git config user.name "impoetmoe"
+          git config user.email "impoetmoe@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:$PAT@github.com/impoetmoe/jamboel-nsetod.git
+          git add lists/
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "Auto-update blocklists $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
