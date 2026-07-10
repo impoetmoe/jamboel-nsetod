@@ -74,7 +74,7 @@ end
 
 ### 3. Application Control (Protocol-based — Recommended)
 
-Ini approach paling efektif buat block VPN/proxy protocol langsung.
+Ini approach paling efektif buat block VPN/proxy protocol langsung (perlu aktifkan DPI SSL)
 ```bash
 config application list
     edit "block-vpn-proxy"
