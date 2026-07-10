@@ -7,7 +7,7 @@ Daftar blocklist untuk blocking user internal yang mau bypass FortiGate pakai VP
 | File | Type | Entries | FortiGate Config |
 |------|------|---------|------------------|
 | `lists/vpnip-block.txt` | IP Address (CIDR) | ~11,000 | `type address` → Firewall Policy deny |
-| `lists/vpndomain-block.txt` | Domain (wildcard) | ~33,000 | `type domain` → DNS Filter block |
+| `lists/vpndomain-block.txt` | Domain (wildcard + root domain) | ~33,000 | `type domain` → DNS Filter block |
 
 ## Update
 
