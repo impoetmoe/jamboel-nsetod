@@ -1,6 +1,6 @@
 # FortiGate VPN/Proxy Blocklist
 
-Daftar blocklist untuk blocking user internal yang mau bypass FortiGate pakai VPN/proxy.
+Daftar blocklist untuk blocking user nakal.
 
 ## File
 
