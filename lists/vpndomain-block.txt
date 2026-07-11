@@ -1383,7 +1383,6 @@
 *.akunssh.net
 *.akylah.zapto.org
 *.akzhfsyv.cc
-*.al-malki-top.zavoj.ch
 *.alarmstat.click
 *.albertcoolters.server.warhawkenterprises.com
 *.alearluvsruby.twilightparadox.com
@@ -2335,7 +2334,6 @@
 *.bigquerycdn.com
 *.bigseal1.gu-natee.uk
 *.bikeshopthe.org
-*.bilidon.dnsuser.info
 *.binamon.ir
 *.bingle.icu
 *.bingojiasu.com
@@ -2528,7 +2526,6 @@
 *.brafnex.ru
 *.brain.innovativegovernance.com
 *.brain.sci.now-incorporate.com
-*.brainpop.zeptoinitiative.org
 *.brakeeagle.com
 *.bramka-proxy.pl
 *.bran-ex.ru
@@ -4312,6 +4309,7 @@
 *.dns.belnet.be
 *.dns.bermeitinger.eu
 *.dns.beta.gandi.net
+*.dns.bezmezhau.com
 *.dns.bgeneto.com
 *.dns.bibica.net
 *.dns.bibitos.cc
@@ -5451,7 +5449,6 @@
 *.doh.xfinity.com
 *.doh.xorlet.ru
 *.doh.xyz
-*.doh.yspv.ru
 *.doh.ywhost.com
 *.doh.zephyrus.id
 *.doh.zhongbr.uk
@@ -5676,7 +5673,6 @@
 *.driftvibe.cfd
 *.drinksnucleus.com
 *.drive.sparks.ddns-ip.net
-*.drive.zeptoinitiative.org
 *.drixel.ru
 *.drkcloud.ddns.net
 *.drmvkcdd.com
@@ -6006,7 +6002,6 @@
 *.education.gpu74.ru
 *.education.info.north-kazakhstan.su.cdn.cloudflare.net
 *.education.tejidosdedignidad.org
-*.education.zeptoinitiative.org
 *.educational-site.24x7.hk
 *.educational.radissontucson.com
 *.educational2learn.highdesertcoders.com
@@ -6221,6 +6216,7 @@
 *.expressvpn.tools
 *.expressvpn.works
 *.expressvpn.xyz
+*.ext.troywell.io
 *.ext.troywell.org
 *.extra.mask.ad
 *.extratv.org
@@ -6637,7 +6633,6 @@
 *.fi-hel-w-f-2.nashkan.net
 *.fi-hel-w-p-1.nashkan.net
 *.fi.r5acq.com
-*.fi.wjcload.tech
 *.fiberprox.com
 *.fiberprox.me
 *.fiberprox.net
@@ -6980,7 +6975,6 @@
 *.frogiesarcade.xyz
 *.frogs.look.good.pxi-fusion.com.cdn.cloudflare.net
 *.frogs.sh
-*.frogstudioslearning.xlntsolutions.com
 *.fromthe.app
 *.frontend.development.sanluix.org
 *.frootvpn.com
@@ -8445,7 +8439,6 @@
 *.imbavpn.mom
 *.imbored.crabdance.com
 *.imbored.kinemasot.cl
-*.imcrine.zeptoinitiative.org
 *.imfroggingit.soloo.win
 *.imgcache.b-cdn.net
 *.imgg.work
@@ -10011,8 +10004,6 @@
 *.mad4todo.com
 *.madeby-vcsa.ramalhais.com
 *.madebyconcon.halfwaythere.ca
-*.madebynathan.zeptoinitiative.org
-*.madebynathan1.zeptoinitiative.org
 *.madeinchile.io
 *.madeinchina1987.zapto.org
 *.madonna.run
@@ -10079,7 +10070,6 @@
 *.master-clock.us
 *.master.dont.beat.me.spacejamhd.com
 *.mastergad.me
-*.mastergotmeworkin.zeptoinitiative.org
 *.masterproxy-proxy.github.io
 *.masterrepo.com
 *.masters-of-cloud.de
@@ -12541,7 +12531,6 @@
 *.read.coach.ratnikov.com
 *.read.registration.abrdns.com
 *.reading.englishpapers.online
-*.reading.zeptoinitiative.org
 *.readingforfun.co.com
 *.ready.graphicon.org
 *.real.coremindx.com
@@ -13215,7 +13204,6 @@
 *.shark.thatguy.space
 *.sharp-wolf-979.biologyscholar.org
 *.sharp.swift.cl
-*.shawtagramma.yao.cl
 *.shdjdgdhsidhwfs.graphicon.ru
 *.shedatear.sparks.ddns-ip.net
 *.shellfire.net
@@ -15994,7 +15982,6 @@
 *.www.bhghhfhgffghfjh.152-53-136-204.plesk.page
 *.www.i.cpfrx.info
 *.www.iloveto.talk4fun.net
-*.www.itrsa.home.next.youradbyus.com
 *.www.nogfdb.ipv64.net
 *.www.p.theartieschaffer.com
 *.www.platform.everfi.cf
@@ -16261,7 +16248,6 @@
 *.xvhquwjv.com
 *.xvless.site
 *.xvmess.online
-*.xvmess.site
 *.xvpn.io
 *.xvpnsecurity.com
 *.xwkpmbnez.com
@@ -16313,7 +16299,6 @@
 *.yapwxciu.com
 *.yarak.luminiferous.abrdns.com
 *.yarvio.ru
-*.yasharteam.com
 *.yavdvcrs.com
 *.yawdg.net
 *.yawn.affable.cloud-ip.cc
@@ -16323,7 +16308,6 @@
 *.ybmtkbiq.com
 *.ybqjaguuii0obex4w.online
 *.ybqlymsu.com
-*.ybstbrpb.com
 *.ychen.cf
 *.ychen.gq
 *.ychk.ft1991.top
@@ -16427,7 +16411,6 @@
 *.yoyovpn.org
 *.yoyoyaya.thecastcaddy.com
 *.yozoragames.mills-family.us
-*.yplsambm.com
 *.ypork.com
 *.yqchonhx.com
 *.yrikse.com
@@ -16481,7 +16464,6 @@
 *.z1j9ortoc.online
 *.z2l8ae5mv83sgzkutimxp.online
 *.z3d9.com
-*.z4qczlf.online
 *.za.mreasandiego.com
 *.zabolotskikh.dev
 *.zaborona.help
@@ -16597,7 +16579,6 @@
 *.zgendpnts.s3.amazonaws.com
 *.zgfree.info
 *.zgproxy.org
-*.zgsjhdzb.com
 *.zgvpn.net
 *.zgvpn.org
 *.zh-index-kuailian.com.cn
@@ -18077,7 +18058,6 @@ akunamatata8888.mooo.com
 akunssh.net
 akylah.zapto.org
 akzhfsyv.cc
-al-malki-top.zavoj.ch
 alarmstat.click
 albertcoolters.server.warhawkenterprises.com
 alearluvsruby.twilightparadox.com
@@ -19029,7 +19009,6 @@ bigmoney.cc
 bigquerycdn.com
 bigseal1.gu-natee.uk
 bikeshopthe.org
-bilidon.dnsuser.info
 binamon.ir
 bingle.icu
 bingojiasu.com
@@ -19222,7 +19201,6 @@ br2.lezainski.com
 brafnex.ru
 brain.innovativegovernance.com
 brain.sci.now-incorporate.com
-brainpop.zeptoinitiative.org
 brakeeagle.com
 bramka-proxy.pl
 bran-ex.ru
@@ -21006,6 +20984,7 @@ dns.beardic.cn
 dns.belnet.be
 dns.bermeitinger.eu
 dns.beta.gandi.net
+dns.bezmezhau.com
 dns.bgeneto.com
 dns.bibica.net
 dns.bibitos.cc
@@ -22145,7 +22124,6 @@ doh.xcom.pro
 doh.xfinity.com
 doh.xorlet.ru
 doh.xyz
-doh.yspv.ru
 doh.ywhost.com
 doh.zephyrus.id
 doh.zhongbr.uk
@@ -22370,7 +22348,6 @@ drgdtk6726lp4.cloudfront.net
 driftvibe.cfd
 drinksnucleus.com
 drive.sparks.ddns-ip.net
-drive.zeptoinitiative.org
 drixel.ru
 drkcloud.ddns.net
 drmvkcdd.com
@@ -22700,7 +22677,6 @@ education.com.boxathome.net
 education.gpu74.ru
 education.info.north-kazakhstan.su.cdn.cloudflare.net
 education.tejidosdedignidad.org
-education.zeptoinitiative.org
 educational-site.24x7.hk
 educational.radissontucson.com
 educational2learn.highdesertcoders.com
@@ -22915,6 +22891,7 @@ expressvpn.org
 expressvpn.tools
 expressvpn.works
 expressvpn.xyz
+ext.troywell.io
 ext.troywell.org
 extra.mask.ad
 extratv.org
@@ -23331,7 +23308,6 @@ fhvsdtll.com
 fi-hel-w-f-2.nashkan.net
 fi-hel-w-p-1.nashkan.net
 fi.r5acq.com
-fi.wjcload.tech
 fiberprox.com
 fiberprox.me
 fiberprox.net
@@ -23674,7 +23650,6 @@ frogiesarcade.win.cdn.cloudflare.net
 frogiesarcade.xyz
 frogs.look.good.pxi-fusion.com.cdn.cloudflare.net
 frogs.sh
-frogstudioslearning.xlntsolutions.com
 fromthe.app
 frontend.development.sanluix.org
 frootvpn.com
@@ -25139,7 +25114,6 @@ imaginelearningmath.com
 imbavpn.mom
 imbored.crabdance.com
 imbored.kinemasot.cl
-imcrine.zeptoinitiative.org
 imfroggingit.soloo.win
 imgcache.b-cdn.net
 imgg.work
@@ -26705,8 +26679,6 @@ m3mhtvbfy.online
 mad4todo.com
 madeby-vcsa.ramalhais.com
 madebyconcon.halfwaythere.ca
-madebynathan.zeptoinitiative.org
-madebynathan1.zeptoinitiative.org
 madeinchile.io
 madeinchina1987.zapto.org
 madonna.run
@@ -26773,7 +26745,6 @@ massivemangoes.ddns.net
 master-clock.us
 master.dont.beat.me.spacejamhd.com
 mastergad.me
-mastergotmeworkin.zeptoinitiative.org
 masterproxy-proxy.github.io
 masterrepo.com
 masters-of-cloud.de
@@ -29235,7 +29206,6 @@ read.alumn.btc.one.pl
 read.coach.ratnikov.com
 read.registration.abrdns.com
 reading.englishpapers.online
-reading.zeptoinitiative.org
 readingforfun.co.com
 ready.graphicon.org
 real.coremindx.com
@@ -29909,7 +29879,6 @@ shark-pan.webredirect.org
 shark.thatguy.space
 sharp-wolf-979.biologyscholar.org
 sharp.swift.cl
-shawtagramma.yao.cl
 shdjdgdhsidhwfs.graphicon.ru
 shedatear.sparks.ddns-ip.net
 shellfire.net
@@ -32688,7 +32657,6 @@ www.94.theartieschaffer.com
 www.bhghhfhgffghfjh.152-53-136-204.plesk.page
 www.i.cpfrx.info
 www.iloveto.talk4fun.net
-www.itrsa.home.next.youradbyus.com
 www.nogfdb.ipv64.net
 www.p.theartieschaffer.com
 www.platform.everfi.cf
@@ -32955,7 +32923,6 @@ xvbelink.com
 xvhquwjv.com
 xvless.site
 xvmess.online
-xvmess.site
 xvpn.io
 xvpnsecurity.com
 xwkpmbnez.com
@@ -33007,7 +32974,6 @@ yapend.com
 yapwxciu.com
 yarak.luminiferous.abrdns.com
 yarvio.ru
-yasharteam.com
 yavdvcrs.com
 yawdg.net
 yawn.affable.cloud-ip.cc
@@ -33017,7 +32983,6 @@ yazaebalsyadelatproxy.uk
 ybmtkbiq.com
 ybqjaguuii0obex4w.online
 ybqlymsu.com
-ybstbrpb.com
 ychen.cf
 ychen.gq
 ychk.ft1991.top
@@ -33121,7 +33086,6 @@ yoygstbx.com
 yoyovpn.org
 yoyoyaya.thecastcaddy.com
 yozoragames.mills-family.us
-yplsambm.com
 ypork.com
 yqchonhx.com
 yrikse.com
@@ -33175,7 +33139,6 @@ z11g.com
 z1j9ortoc.online
 z2l8ae5mv83sgzkutimxp.online
 z3d9.com
-z4qczlf.online
 za.mreasandiego.com
 zabolotskikh.dev
 zaborona.help
@@ -33291,7 +33254,6 @@ zgcvpn.com
 zgendpnts.s3.amazonaws.com
 zgfree.info
 zgproxy.org
-zgsjhdzb.com
 zgvpn.net
 zgvpn.org
 zh-index-kuailian.com.cn
