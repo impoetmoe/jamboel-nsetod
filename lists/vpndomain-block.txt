@@ -4289,6 +4289,7 @@
 *.dns.arkbotech.com
 *.dns.articrevised.cc
 *.dns.artikel10.org
+*.dns.as212683.net
 *.dns.ashleyjackson.net
 *.dns.asterimoon.com
 *.dns.asysec.com
@@ -20964,6 +20965,7 @@ dns.ares-taiwan.com
 dns.arkbotech.com
 dns.articrevised.cc
 dns.artikel10.org
+dns.as212683.net
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
