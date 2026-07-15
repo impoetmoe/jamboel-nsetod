@@ -4391,7 +4391,6 @@
 *.dns.controld.com
 *.dns.cooluc.com
 *.dns.corefusion.xyz
-*.dns.criena.net
 *.dns.cryptomize.com
 *.dns.crystalyx.net
 *.dns.csaonline.de
@@ -7528,7 +7527,6 @@
 *.guestappearance.us
 *.guide.terms.gatpp.com
 *.guidetoworld.link
-*.guigu.dns.army
 *.guildstashtracker.xyz
 *.gulaaron.ru
 *.gule.loan
@@ -21075,7 +21073,6 @@ dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
-dns.criena.net
 dns.cryptomize.com
 dns.crystalyx.net
 dns.csaonline.de
@@ -24212,7 +24209,6 @@ guesses.info
 guestappearance.us
 guide.terms.gatpp.com
 guidetoworld.link
-guigu.dns.army
 guildstashtracker.xyz
 gulaaron.ru
 gule.loan
