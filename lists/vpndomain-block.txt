@@ -89,6 +89,7 @@
 *.1195409979.rsc.cdn77.org
 *.123-24.eport.gr
 *.123-proxy.net
+*.123-proxy.org
 *.123000123.xyz
 *.123417.xyz
 *.1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com
@@ -104,10 +105,12 @@
 *.123down.org
 *.123fr.info
 *.123free.info
+*.123goproxy.com
 *.123hideip.com
 *.123inside.net
 *.123jsq.top
 *.123li.me
+*.123me.net
 *.123music.app
 *.123proxy.app
 *.123proxy.biz
@@ -257,6 +260,7 @@
 *.1clickvpn.help
 *.1clickvpn.net
 *.1d02o93u1092d0.weebly.com
+*.1dollarmeathod.zunbaoyule123.com
 *.1ee.top
 *.1ef5be51a2d8d5dfe81bc2d6b620e377fb73846c.com
 *.1f47epzt.online
@@ -391,6 +395,7 @@
 *.3kh0.org
 *.3nkh5crxol.ch
 *.3proxy.de
+*.3proxy.us
 *.3qguvtvrpyzkatp2.online
 *.3x.nz
 *.4.baumgardner.us
@@ -481,6 +486,7 @@
 *.55780358.xyz
 *.55aktnolkvuoctxitm.online
 *.55gms.com
+*.55gms.me
 *.55gms.skysthelimit.dev
 *.55gms.skysthelimit.dev.cdn.cloudflare.net
 *.55gms.store.cdn.cloudflare.net
@@ -970,6 +976,7 @@
 *.adg.rueiliu.space
 *.adg.spacework.com.mx
 *.adg.tshost.no
+*.adg.yybyy.wiki
 *.adg5yvi.ngatngay.net
 *.adgaurd.lingmont.net
 *.adgd.fragmentance.ru
@@ -1072,6 +1079,7 @@
 *.adguard.johnnypatras.org
 *.adguard.k-likhachev.ru
 *.adguard.kalyanmudumby.com
+*.adguard.kantinyoyok.xyz
 *.adguard.kasbot.net
 *.adguard.kiboko.it
 *.adguard.kitakitsune.xyz
@@ -1260,6 +1268,7 @@
 *.africadns1.liquidtelecom.net
 *.africadns2.liquidtelecom.net
 *.ag.apollohct.com
+*.ag.brianlee.fun
 *.ag.coco-tama-hoiku.com
 *.ag.felixf.eu
 *.ag.ff0x.ca
@@ -1511,6 +1520,7 @@
 *.annual2025.uk
 *.ano404.top
 *.anol.loan
+*.anomivpn.com
 *.anonine.com
 *.anonto.pw
 *.anonvpn.io
@@ -1587,7 +1597,6 @@
 *.apache-iv.com
 *.apamerican.govt.hu
 *.apexofficial.accesscam.org
-*.apfgexfusion.com
 *.aphistorytutoring.bastaff.ru
 *.aphistorytutoring.bisblick.org
 *.aphistorytutoring.cencopro.cl
@@ -1667,7 +1676,9 @@
 *.apworld.navigogroup.cl
 *.aq.iaalai.cn
 *.aqpov.xyz
+*.aqua.bastaff.ru
 *.aqua.is.my.waifu.cz
+*.arab.is.goated.teamradicus.com
 *.aracmtva.com
 *.arapurayil.com
 *.arashi.eu.org
@@ -1845,6 +1856,7 @@
 *.awebproxy.com
 *.awhoer.net
 *.awp.gg.pololabrau.com.ar
+*.axaxa.fun
 *.axiom.vcsa.graphicon.org
 *.axiomhas.keybusinessconnection.com
 *.axiomislife18.qualitynet.com.br
@@ -1889,6 +1901,7 @@
 *.b78772063930e9c944132eff50bfa9cec07cf356.com
 *.b9b7099bb27a6ea166072732a91324d6a836ec39.com
 *.b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
+*.baablu.tcloud.my
 *.babelsnow.com
 *.babiesyui.ignorelist.com
 *.babybee.tcogpcal.org
@@ -1901,6 +1914,7 @@
 *.baikalvpn.ru
 *.bailey.today
 *.bajie.la
+*.bajiess.com
 *.baku.chickenkiller.com
 *.ballbang.com
 *.banana-vpn.com
@@ -2434,6 +2448,7 @@
 *.blokada.org
 *.blokuj.ujwie.co
 *.blooket-2026-happynewyears.wechchile.cl
+*.blooket.broomleigh.org
 *.bloquer.fr
 *.blubby.3d-mart.ru
 *.bluedns.xyz
@@ -2611,6 +2626,7 @@
 *.browservpn.online
 *.brsjk.cn
 *.brsueykh.com
+*.brunycraft.xyz
 *.brunycraft.xyz.cdn.cloudflare.net
 *.brunysixl.work
 *.brunysixl.work.cdn.cloudflare.net
@@ -3128,6 +3144,7 @@
 *.clickr.my.to
 *.clickwork7secure.com
 *.client.registration.abrdns.com
+*.cliffbayschools.anjumanallana.in
 *.cliffschools.org
 *.clkcsxwl.cc
 *.clmvip.com
@@ -4391,6 +4408,7 @@
 *.dns.controld.com
 *.dns.cooluc.com
 *.dns.corefusion.xyz
+*.dns.criena.net
 *.dns.cryptomize.com
 *.dns.crystalyx.net
 *.dns.csaonline.de
@@ -8553,6 +8571,7 @@
 *.iopsfwjrklewrdf.xcvjklesdfewf.dingsheng-yule.com
 *.iosap2-static.b-cdn.net
 *.iosedge.com
+*.iosequence.online
 *.iosjiasu.net
 *.iosp33beec-20c12.kxcdn.com
 *.iossync.com
@@ -13993,7 +14012,6 @@
 *.testingtesting123.tms-chel.ru
 *.testmode.lhost.dev
 *.testpilot.firefox.com
-*.testplease.fin-tech.com
 *.testred.xyz
 *.tests.debate.homebrewology.org
 *.tests.ela.btbtrading.it
@@ -16771,6 +16789,7 @@
 1195409979.rsc.cdn77.org
 123-24.eport.gr
 123-proxy.net
+123-proxy.org
 123000123.xyz
 123417.xyz
 1234567890qwertyuiopasdfghjklzxcvbnm.myclarevision.com
@@ -16786,10 +16805,12 @@
 123down.org
 123fr.info
 123free.info
+123goproxy.com
 123hideip.com
 123inside.net
 123jsq.top
 123li.me
+123me.net
 123music.app
 123proxy.app
 123proxy.biz
@@ -16939,6 +16960,7 @@
 1clickvpn.help
 1clickvpn.net
 1d02o93u1092d0.weebly.com
+1dollarmeathod.zunbaoyule123.com
 1ee.top
 1ef5be51a2d8d5dfe81bc2d6b620e377fb73846c.com
 1f47epzt.online
@@ -17073,6 +17095,7 @@
 3kh0.org
 3nkh5crxol.ch
 3proxy.de
+3proxy.us
 3qguvtvrpyzkatp2.online
 3x.nz
 4.baumgardner.us
@@ -17163,6 +17186,7 @@
 55780358.xyz
 55aktnolkvuoctxitm.online
 55gms.com
+55gms.me
 55gms.skysthelimit.dev
 55gms.skysthelimit.dev.cdn.cloudflare.net
 55gms.store.cdn.cloudflare.net
@@ -17652,6 +17676,7 @@ adg.rokh.biz
 adg.rueiliu.space
 adg.spacework.com.mx
 adg.tshost.no
+adg.yybyy.wiki
 adg5yvi.ngatngay.net
 adgaurd.lingmont.net
 adgd.fragmentance.ru
@@ -17754,6 +17779,7 @@ adguard.johanliebert.top
 adguard.johnnypatras.org
 adguard.k-likhachev.ru
 adguard.kalyanmudumby.com
+adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.kitakitsune.xyz
@@ -17942,6 +17968,7 @@ afrcloud22.mmv.kr
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
+ag.brianlee.fun
 ag.coco-tama-hoiku.com
 ag.felixf.eu
 ag.ff0x.ca
@@ -18193,6 +18220,7 @@ anker-beton.ru
 annual2025.uk
 ano404.top
 anol.loan
+anomivpn.com
 anonine.com
 anonto.pw
 anonvpn.io
@@ -18269,7 +18297,6 @@ aoxvpnapp.com
 apache-iv.com
 apamerican.govt.hu
 apexofficial.accesscam.org
-apfgexfusion.com
 aphistorytutoring.bastaff.ru
 aphistorytutoring.bisblick.org
 aphistorytutoring.cencopro.cl
@@ -18349,7 +18376,9 @@ aptvpn.org
 apworld.navigogroup.cl
 aq.iaalai.cn
 aqpov.xyz
+aqua.bastaff.ru
 aqua.is.my.waifu.cz
+arab.is.goated.teamradicus.com
 aracmtva.com
 arapurayil.com
 arashi.eu.org
@@ -18527,6 +18556,7 @@ awdhiauhxkdjw.pages.dev
 awebproxy.com
 awhoer.net
 awp.gg.pololabrau.com.ar
+axaxa.fun
 axiom.vcsa.graphicon.org
 axiomhas.keybusinessconnection.com
 axiomislife18.qualitynet.com.br
@@ -18571,6 +18601,7 @@ b54e52438af9dcc7eb3e4b4dd44e5545411a2779.com
 b78772063930e9c944132eff50bfa9cec07cf356.com
 b9b7099bb27a6ea166072732a91324d6a836ec39.com
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
+baablu.tcloud.my
 babelsnow.com
 babiesyui.ignorelist.com
 babybee.tcogpcal.org
@@ -18583,6 +18614,7 @@ badrsgpr.com
 baikalvpn.ru
 bailey.today
 bajie.la
+bajiess.com
 baku.chickenkiller.com
 ballbang.com
 banana-vpn.com
@@ -19116,6 +19148,7 @@ blog2.amlegion.org
 blokada.org
 blokuj.ujwie.co
 blooket-2026-happynewyears.wechchile.cl
+blooket.broomleigh.org
 bloquer.fr
 blubby.3d-mart.ru
 bluedns.xyz
@@ -19293,6 +19326,7 @@ browserstephen.webs.vc
 browservpn.online
 brsjk.cn
 brsueykh.com
+brunycraft.xyz
 brunycraft.xyz.cdn.cloudflare.net
 brunysixl.work
 brunysixl.work.cdn.cloudflare.net
@@ -19810,6 +19844,7 @@ clickfrom.email
 clickr.my.to
 clickwork7secure.com
 client.registration.abrdns.com
+cliffbayschools.anjumanallana.in
 cliffschools.org
 clkcsxwl.cc
 clmvip.com
@@ -21073,6 +21108,7 @@ dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
+dns.criena.net
 dns.cryptomize.com
 dns.crystalyx.net
 dns.csaonline.de
@@ -25235,6 +25271,7 @@ iopl.xyz
 iopsfwjrklewrdf.xcvjklesdfewf.dingsheng-yule.com
 iosap2-static.b-cdn.net
 iosedge.com
+iosequence.online
 iosjiasu.net
 iosp33beec-20c12.kxcdn.com
 iossync.com
@@ -30675,7 +30712,6 @@ testing123.myaddr.tools
 testingtesting123.tms-chel.ru
 testmode.lhost.dev
 testpilot.firefox.com
-testplease.fin-tech.com
 testred.xyz
 tests.debate.homebrewology.org
 tests.ela.btbtrading.it
