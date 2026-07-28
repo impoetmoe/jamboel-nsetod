@@ -4815,6 +4815,7 @@
 *.dns.controld.com
 *.dns.cooluc.com
 *.dns.corefusion.xyz
+*.dns.criena.net
 *.dns.cryptomize.com
 *.dns.crystalyx.net
 *.dns.csaonline.de
@@ -11833,6 +11834,7 @@
 *.odeum.zelator.cloud-ip.cc
 *.ododep.ru
 *.odoh-target-noads-se.alekberg.net
+*.odoh-target-se.alekberg.net
 *.odoh-target.alekberg.net
 *.odpi3ekk.com
 *.odvr.nic.cz
@@ -22405,6 +22407,7 @@ dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
+dns.criena.net
 dns.cryptomize.com
 dns.crystalyx.net
 dns.csaonline.de
@@ -29423,6 +29426,7 @@ oculta.me
 odeum.zelator.cloud-ip.cc
 ododep.ru
 odoh-target-noads-se.alekberg.net
+odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odpi3ekk.com
 odvr.nic.cz
