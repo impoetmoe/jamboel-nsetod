@@ -1821,15 +1821,18 @@
 *.anyhow.bury.abrdns.com
 *.anyip.io
 *.anyone.io
+*.anyone.me
 *.anyone.tech
 *.anything.dontbreakthiswildcard.doge.motorcycles
 *.anything.dylix.org
 *.anything.mathhomework.abrdns.com
+*.anyweatherispepsiweather.1903.jdymqic.shop
 *.aoboesd.com
 *.aox666.com
 *.aox777.xyz
 *.aoxblog.com
 *.aoxera.xyz
+*.aoxinvite.com
 *.aoxjiasu.com
 *.aoxjsq666.com
 *.aoxlink.com
@@ -1961,6 +1964,7 @@
 *.arnsvr.site
 *.aroeuyo.dns64.de
 *.arrakis.korolyzer.com.br
+*.arrives.run
 *.arrow.clean.abrdns.com
 *.art-class-omg.vercel.app
 *.art.lexvoip.com
@@ -2347,6 +2351,7 @@
 *.bestcyberpunk.com
 *.bestdaishu.com
 *.bestdaxiang.com
+*.bestdaygame.com
 *.bestdbd.com
 *.bestdengta.com
 *.bestdianbao.com
@@ -2672,6 +2677,7 @@
 *.blog2.amlegion.org
 *.blokada.org
 *.blokuj.ujwie.co
+*.blooket.broomleigh.org
 *.bloombergia.ru
 *.bloquer.fr
 *.bluedns.xyz
@@ -3266,10 +3272,12 @@
 *.cjwhahqi.com
 *.clarity.registration.abrdns.com
 *.clase-de-arte.vercel.app
+*.clash-for-ios.com
 *.clash-mi.org
 *.clash-party.org
 *.clashappx.com
 *.clashforandroid.org
+*.clashformac.com
 *.clashforwindows.org
 *.clashgithub.com
 *.clashgui.com
@@ -3592,6 +3600,7 @@
 *.ctkangh.cn
 *.cube.neubsi.at
 *.cubedns.com
+*.cubixpvp.net
 *.cudahysdschoolwork.pages.dev
 *.cudfhbej.com
 *.cuisine.run
@@ -4215,6 +4224,7 @@
 *.dedvpn.net
 *.dedvpn.xyz
 *.deep-henchman-excuse.cfd
+*.deep-sea.dns.navy
 *.deep-soul-486.biologyscholar.org
 *.deepcores.online
 *.deeper.network
@@ -4224,6 +4234,7 @@
 *.defencevpn.com
 *.defendfrienddns.fyi
 *.defilter.us
+*.defined.pics
 *.definitechaos.org
 *.defnotballs.duckdns.org
 *.defyxvpn.com
@@ -4308,6 +4319,7 @@
 *.dichvusocks.net
 *.diddle.club.cdn.cloudflare.net
 *.diddy.info.north-kazakhstan.su.cdn.cloudflare.net
+*.diddyblud.cxhzegpg.shop
 *.dieuy732rkuvo.cloudfront.net
 *.difference.clean.abrdns.com
 *.differentiate.ddnsgeek.com
@@ -4416,6 +4428,7 @@
 *.dns-public.ibakerserver.pt
 *.dns-revers.1-au.net
 *.dns-savage.com
+*.dns-secondary.cloudnx.cloud
 *.dns-sehat.apigw.online
 *.dns-sgp.imo.im
 *.dns-sgx1.itsec.my.id
@@ -4476,6 +4489,7 @@
 *.dns.aixxycode.id
 *.dns.akbxr.com
 *.dns.albony.xyz
+*.dns.alekberg.net
 *.dns.aliyun.com
 *.dns.alloxr.info
 *.dns.almir1904.eu
@@ -4744,6 +4758,7 @@
 *.dns.grqu.de
 *.dns.gsmseti.net
 *.dns.guard.io
+*.dns.guardmydns.com
 *.dns.gupthabrothers.in
 *.dns.gussguss.ovh
 *.dns.gutwe.in
@@ -4992,6 +5007,7 @@
 *.dns.novali.date
 *.dns.novg.net
 *.dns.npe.bz
+*.dns.npsolution.it
 *.dns.ntr.lol
 *.dns.nubecita.biz
 *.dns.nullgate.net
@@ -5242,6 +5258,7 @@
 *.dns.wang.art
 *.dns.wantfreedom.eu.org
 *.dns.wargan.io
+*.dns.warma.me
 *.dns.warpnine.de
 *.dns.warrior.fr
 *.dns.watch
@@ -5335,6 +5352,7 @@
 *.dns1.wyss.network
 *.dns19.854000.xyz
 *.dns2.afastserver.com
+*.dns2.alekberg.net
 *.dns2.anuar.me
 *.dns2.bortus.io
 *.dns2.cbio.top
@@ -5389,6 +5407,7 @@
 *.dnscrypt.info
 *.dnsdoh.art
 *.dnsenc.com
+*.dnses.alekberg.net
 *.dnsforfamily.com
 *.dnsforge.de
 *.dnsguard.hte.vn
@@ -5397,11 +5416,14 @@
 *.dnslify.com
 *.dnslow.me
 *.dnsmm.mywire.org
+*.dnsnl-noads.alekberg.net
 *.dnsnl.alekberg.net
 *.dnsotls.lab.nic.cl
 *.dnspod.com
 *.dnsprivacy.org.uk
 *.dnsresolver02.ddns.net
+*.dnsse-noads.alekberg.net
+*.dnsse.alekberg.net
 *.dnssec.dns.enginyring.com
 *.dnssecure.aluwela.se
 *.dnsserver.mailchan.eu
@@ -5476,6 +5498,7 @@
 *.dofpsgame.com
 *.dofqtz.com
 *.dofree.net
+*.dofur.ru
 *.dog-auto-one.click
 *.dog-auto-two.click
 *.dog.dns.qwer.pw
@@ -5537,6 +5560,7 @@
 *.doh.blockerdns.com
 *.doh.bortzmeyer.fr
 *.doh.bt.com
+*.doh.bugdns.com
 *.doh.buzz
 *.doh.captnemo.in
 *.doh.ccb-net.it
@@ -5572,6 +5596,7 @@
 *.doh.hugang8.cn
 *.doh.ibr.cs.tu-bs.de
 *.doh.immerda.ch
+*.doh.infotek.net.id
 *.doh.infracell.net
 *.doh.iqiyi.com
 *.doh.jeroenhd.nl
@@ -5830,6 +5855,7 @@
 *.doxkbox.com
 *.doxuanfeng.com
 *.doxungou.com
+*.doxy.zone.id
 *.doyinghu.com
 *.doyingyan.com
 *.doyouknowthemuffinman.boxathome.net
@@ -5965,6 +5991,7 @@
 *.e85dba3b6cc1a69916a865932dca01b75f522b03.com
 *.e9a69782e0a4bf88513c1447548cb33e44737c0c.com
 *.ea915934c6496470ba3124cecb507097a25628a5.com
+*.eaglercraft.shop
 *.eajigz44.com
 *.earn-api.ipht.net
 *.earn.cc
@@ -6168,6 +6195,7 @@
 *.edgar.tobkar.net
 *.edge-intl.ygjs.org
 *.edge-invite.com
+*.edge-v6x.v6.rocks
 *.edge-x.cloud
 *.edgeaccelerator.space
 *.edgeaccelerator.website
@@ -6185,6 +6213,7 @@
 *.editor.codingwizard.website
 *.editorialescelistina.click
 *.ediucaton.fun
+*.edmentum-reading.lbry.ru
 *.ednovas.blog
 *.ednovas.dev
 *.ednovas.me
@@ -6205,6 +6234,7 @@
 *.edu.prostitutki-na-vyezd.com
 *.edublue.org
 *.education.info.north-kazakhstan.su.cdn.cloudflare.net
+*.education.timbalemail.com
 *.educational-site.24x7.hk
 *.educational.radissontucson.com
 *.educationalmath-site.info.north-kazakhstan.su.cdn.cloudflare.net
@@ -6286,6 +6316,7 @@
 *.endis.bar
 *.endis.furryporn.pics
 *.endis.is.goat.spacejamhd.com
+*.endis.niggersbigballs.xyz
 *.endis.org
 *.endis.org.cdn.cloudflare.net
 *.endis.rest
@@ -6308,6 +6339,7 @@
 *.epicrisis.luminiferous.abrdns.com
 *.epolx.xyz
 *.epsteinsideswiththejews.ink
+*.eq.dawuiiwauidwahyuiwahuioqwd.site
 *.eq8v2xfv.com
 *.eqhwuonjkmjewhqunijmemwqhuinjmkhunj.easterndns.com
 *.eqnar.ints.f5.si
@@ -7181,6 +7213,7 @@
 *.funti.cc
 *.funtikspb.ru
 *.furoen.ru
+*.furriesarecute.furryplace.eu
 *.furrys.vercel.app
 *.furrysarehot.vercel.app
 *.furrysrcool.vercel.app
@@ -15818,6 +15851,7 @@
 *.www-vpn.52oupa.com
 *.www-web.sshub.win
 *.www-web.veranon.io
+*.www-webproxy.ipstar.io
 *.www-yt.nikooo.ir
 *.www-yy.in6.to
 *.www.3.theartieschaffer.com
@@ -18344,15 +18378,18 @@ anycast.uncensoreddns.dk
 anyhow.bury.abrdns.com
 anyip.io
 anyone.io
+anyone.me
 anyone.tech
 anything.dontbreakthiswildcard.doge.motorcycles
 anything.dylix.org
 anything.mathhomework.abrdns.com
+anyweatherispepsiweather.1903.jdymqic.shop
 aoboesd.com
 aox666.com
 aox777.xyz
 aoxblog.com
 aoxera.xyz
+aoxinvite.com
 aoxjiasu.com
 aoxjsq666.com
 aoxlink.com
@@ -18484,6 +18521,7 @@ armorrush.eu.org
 arnsvr.site
 aroeuyo.dns64.de
 arrakis.korolyzer.com.br
+arrives.run
 arrow.clean.abrdns.com
 art-class-omg.vercel.app
 art.lexvoip.com
@@ -18870,6 +18908,7 @@ bestcyberghost.com
 bestcyberpunk.com
 bestdaishu.com
 bestdaxiang.com
+bestdaygame.com
 bestdbd.com
 bestdengta.com
 bestdianbao.com
@@ -19195,6 +19234,7 @@ blog.kimiblock.top
 blog2.amlegion.org
 blokada.org
 blokuj.ujwie.co
+blooket.broomleigh.org
 bloombergia.ru
 bloquer.fr
 bluedns.xyz
@@ -19789,10 +19829,12 @@ cjagirmnv8ukgdscrqnd6b9ui.online
 cjwhahqi.com
 clarity.registration.abrdns.com
 clase-de-arte.vercel.app
+clash-for-ios.com
 clash-mi.org
 clash-party.org
 clashappx.com
 clashforandroid.org
+clashformac.com
 clashforwindows.org
 clashgithub.com
 clashgui.com
@@ -20115,6 +20157,7 @@ ctilqhzv.cc
 ctkangh.cn
 cube.neubsi.at
 cubedns.com
+cubixpvp.net
 cudahysdschoolwork.pages.dev
 cudfhbej.com
 cuisine.run
@@ -20738,6 +20781,7 @@ dedvpn.blog
 dedvpn.net
 dedvpn.xyz
 deep-henchman-excuse.cfd
+deep-sea.dns.navy
 deep-soul-486.biologyscholar.org
 deepcores.online
 deeper.network
@@ -20747,6 +20791,7 @@ default2024.uk
 defencevpn.com
 defendfrienddns.fyi
 defilter.us
+defined.pics
 definitechaos.org
 defnotballs.duckdns.org
 defyxvpn.com
@@ -20831,6 +20876,7 @@ dicefan.com
 dichvusocks.net
 diddle.club.cdn.cloudflare.net
 diddy.info.north-kazakhstan.su.cdn.cloudflare.net
+diddyblud.cxhzegpg.shop
 dieuy732rkuvo.cloudfront.net
 difference.clean.abrdns.com
 differentiate.ddnsgeek.com
@@ -20939,6 +20985,7 @@ dns-privacy.puregeni.us
 dns-public.ibakerserver.pt
 dns-revers.1-au.net
 dns-savage.com
+dns-secondary.cloudnx.cloud
 dns-sehat.apigw.online
 dns-sgp.imo.im
 dns-sgx1.itsec.my.id
@@ -20999,6 +21046,7 @@ dns.airns.net
 dns.aixxycode.id
 dns.akbxr.com
 dns.albony.xyz
+dns.alekberg.net
 dns.aliyun.com
 dns.alloxr.info
 dns.almir1904.eu
@@ -21267,6 +21315,7 @@ dns.groupesaintmichel.fr
 dns.grqu.de
 dns.gsmseti.net
 dns.guard.io
+dns.guardmydns.com
 dns.gupthabrothers.in
 dns.gussguss.ovh
 dns.gutwe.in
@@ -21515,6 +21564,7 @@ dns.nonomi.cc
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.npsolution.it
 dns.ntr.lol
 dns.nubecita.biz
 dns.nullgate.net
@@ -21765,6 +21815,7 @@ dns.walshnet.co.uk
 dns.wang.art
 dns.wantfreedom.eu.org
 dns.wargan.io
+dns.warma.me
 dns.warpnine.de
 dns.warrior.fr
 dns.watch
@@ -21858,6 +21909,7 @@ dns1.understandingcyber.co.uk
 dns1.wyss.network
 dns19.854000.xyz
 dns2.afastserver.com
+dns2.alekberg.net
 dns2.anuar.me
 dns2.bortus.io
 dns2.cbio.top
@@ -21912,6 +21964,7 @@ dnscrypt.ca
 dnscrypt.info
 dnsdoh.art
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.hte.vn
@@ -21920,11 +21973,14 @@ dnshostnamelol.easterndns.com
 dnslify.com
 dnslow.me
 dnsmm.mywire.org
+dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspod.com
 dnsprivacy.org.uk
 dnsresolver02.ddns.net
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnssec.dns.enginyring.com
 dnssecure.aluwela.se
 dnsserver.mailchan.eu
@@ -21999,6 +22055,7 @@ dofotiaoqiang.com
 dofpsgame.com
 dofqtz.com
 dofree.net
+dofur.ru
 dog-auto-one.click
 dog-auto-two.click
 dog.dns.qwer.pw
@@ -22060,6 +22117,7 @@ doh.blitarian.com
 doh.blockerdns.com
 doh.bortzmeyer.fr
 doh.bt.com
+doh.bugdns.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
@@ -22095,6 +22153,7 @@ doh.hosterra.tech
 doh.hugang8.cn
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
+doh.infotek.net.id
 doh.infracell.net
 doh.iqiyi.com
 doh.jeroenhd.nl
@@ -22353,6 +22412,7 @@ doxiyou.com
 doxkbox.com
 doxuanfeng.com
 doxungou.com
+doxy.zone.id
 doyinghu.com
 doyingyan.com
 doyouknowthemuffinman.boxathome.net
@@ -22488,6 +22548,7 @@ e6cc37ec81b2dba2cf019464d53fdf1718868af8.com
 e85dba3b6cc1a69916a865932dca01b75f522b03.com
 e9a69782e0a4bf88513c1447548cb33e44737c0c.com
 ea915934c6496470ba3124cecb507097a25628a5.com
+eaglercraft.shop
 eajigz44.com
 earn-api.ipht.net
 earn.cc
@@ -22691,6 +22752,7 @@ edf87dd47d352bf3648ab0caf4476ed2.top
 edgar.tobkar.net
 edge-intl.ygjs.org
 edge-invite.com
+edge-v6x.v6.rocks
 edge-x.cloud
 edgeaccelerator.space
 edgeaccelerator.website
@@ -22708,6 +22770,7 @@ edgy-dns.com
 editor.codingwizard.website
 editorialescelistina.click
 ediucaton.fun
+edmentum-reading.lbry.ru
 ednovas.blog
 ednovas.dev
 ednovas.me
@@ -22728,6 +22791,7 @@ edu.info.east-kazakhstan.su.cdn.cloudflare.net
 edu.prostitutki-na-vyezd.com
 edublue.org
 education.info.north-kazakhstan.su.cdn.cloudflare.net
+education.timbalemail.com
 educational-site.24x7.hk
 educational.radissontucson.com
 educationalmath-site.info.north-kazakhstan.su.cdn.cloudflare.net
@@ -22809,6 +22873,7 @@ endente.com
 endis.bar
 endis.furryporn.pics
 endis.is.goat.spacejamhd.com
+endis.niggersbigballs.xyz
 endis.org
 endis.org.cdn.cloudflare.net
 endis.rest
@@ -22831,6 +22896,7 @@ epicbrowser.com
 epicrisis.luminiferous.abrdns.com
 epolx.xyz
 epsteinsideswiththejews.ink
+eq.dawuiiwauidwahyuiwahuioqwd.site
 eq8v2xfv.com
 eqhwuonjkmjewhqunijmemwqhuinjmkhunj.easterndns.com
 eqnar.ints.f5.si
@@ -23704,6 +23770,7 @@ funnyaisite.org
 funti.cc
 funtikspb.ru
 furoen.ru
+furriesarecute.furryplace.eu
 furrys.vercel.app
 furrysarehot.vercel.app
 furrysrcool.vercel.app
@@ -32341,6 +32408,7 @@ www-theweb.deersserverhosting.com
 www-vpn.52oupa.com
 www-web.sshub.win
 www-web.veranon.io
+www-webproxy.ipstar.io
 www-yt.nikooo.ir
 www-yy.in6.to
 www.3.theartieschaffer.com
