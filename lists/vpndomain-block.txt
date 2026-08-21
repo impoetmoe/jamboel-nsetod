@@ -13442,8 +13442,6 @@
 *.spaceis.bad.mn
 *.spaceiscool.is-not.cool
 *.spaceiscool.is-not.cool.cdn.cloudflare.net
-*.spaceship-cdn.com
-*.spaceship.com
 *.spacevpn.io
 *.spbyjzu.cn
 *.spearhead.bury.abrdns.com
@@ -15567,6 +15565,7 @@
 *.waguri.vancorp.com.au
 *.waitfree.us
 *.waiwangjiasu.net
+*.wakou-engineering-univ.site
 *.waladunit.com
 *.walhalla.freemyip.com
 *.walkastafilikarimostikitisdraglama.marcus-mesquita.com
@@ -30089,8 +30088,6 @@ spacedns.org
 spaceis.bad.mn
 spaceiscool.is-not.cool
 spaceiscool.is-not.cool.cdn.cloudflare.net
-spaceship-cdn.com
-spaceship.com
 spacevpn.io
 spbyjzu.cn
 spearhead.bury.abrdns.com
@@ -32214,6 +32211,7 @@ waguri.nappod.com
 waguri.vancorp.com.au
 waitfree.us
 waiwangjiasu.net
+wakou-engineering-univ.site
 waladunit.com
 walhalla.freemyip.com
 walkastafilikarimostikitisdraglama.marcus-mesquita.com
