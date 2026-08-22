@@ -2020,7 +2020,6 @@
 *.astroid-three.vercel.app
 *.astroutercn.com
 *.astrovpn.co
-*.at-wie-w-p-1.nashkan.net
 *.at.pzhg.me
 *.at5w361xq.online
 *.atejiasu.com
@@ -5604,7 +5603,6 @@
 *.doh.jeroenhd.nl
 *.doh.kekew.info
 *.doh.kekew.racing
-*.doh.kel.pe
 *.doh.kidzonet.io
 *.doh.killtw.im
 *.doh.koduarve.ee
@@ -7022,7 +7020,6 @@
 *.fproxy.net
 *.fqmfwhpx.com
 *.fqoqehwib.com
-*.fr-gra-w-p-1.nashkan.net
 *.fr.dalockd.net
 *.fr33ze.gleeze.com
 *.fra-dns.bitdefender.net
@@ -11923,7 +11920,6 @@
 *.prflux.xyz
 *.prgoorzz.cc
 *.primeproxy23.info
-*.princez.uk
 *.printruns.us
 *.printtools.us
 *.prism.global.ssl.fastly.net
@@ -18666,7 +18662,6 @@ astroid-go-static.pages.dev
 astroid-three.vercel.app
 astroutercn.com
 astrovpn.co
-at-wie-w-p-1.nashkan.net
 at.pzhg.me
 at5w361xq.online
 atejiasu.com
@@ -22250,7 +22245,6 @@ doh.iqiyi.com
 doh.jeroenhd.nl
 doh.kekew.info
 doh.kekew.racing
-doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
 doh.koduarve.ee
@@ -23668,7 +23662,6 @@ fprmvgwu.com
 fproxy.net
 fqmfwhpx.com
 fqoqehwib.com
-fr-gra-w-p-1.nashkan.net
 fr.dalockd.net
 fr33ze.gleeze.com
 fra-dns.bitdefender.net
@@ -28569,7 +28562,6 @@ prevent.run
 prflux.xyz
 prgoorzz.cc
 primeproxy23.info
-princez.uk
 printruns.us
 printtools.us
 prism.global.ssl.fastly.net
