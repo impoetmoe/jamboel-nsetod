@@ -13023,6 +13023,7 @@
 *.schoolsuscks.vercel.app
 *.schooltech.pages.dev
 *.schooltechreadong.mywire.org
+*.schoolverification.me
 *.schoolwebproxy.com
 *.schulhelfer-mathe-deutsch.de
 *.sci.add.countyohio.info
@@ -15953,7 +15954,6 @@
 *.www-proxy.huorbx.com
 *.www-proxy.jakemarco.xyz
 *.www-proxy.ladifsoftware.com
-*.www-proxy.lovekeli.uk
 *.www-proxy.migastep.com
 *.www-proxy.p2pear.asia
 *.www-proxy.pyxelworld.com
@@ -15964,7 +15964,6 @@
 *.www-q.nolife.uk
 *.www-reflect4.buachi.work
 *.www-rf4.forestberrypi.com
-*.www-server.freewebsproxy.com
 *.www-testus.spiderprx.com
 *.www-theweb.deersserverhosting.com
 *.www-vpn.52oupa.com
@@ -29720,6 +29719,7 @@ schoolsucks.tcloud.my
 schoolsuscks.vercel.app
 schooltech.pages.dev
 schooltechreadong.mywire.org
+schoolverification.me
 schoolwebproxy.com
 schulhelfer-mathe-deutsch.de
 sci.add.countyohio.info
@@ -32650,7 +32650,6 @@ www-proxy.gelaxiz.xyz
 www-proxy.huorbx.com
 www-proxy.jakemarco.xyz
 www-proxy.ladifsoftware.com
-www-proxy.lovekeli.uk
 www-proxy.migastep.com
 www-proxy.p2pear.asia
 www-proxy.pyxelworld.com
@@ -32661,7 +32660,6 @@ www-proxy.valentiin.com
 www-q.nolife.uk
 www-reflect4.buachi.work
 www-rf4.forestberrypi.com
-www-server.freewebsproxy.com
 www-testus.spiderprx.com
 www-theweb.deersserverhosting.com
 www-vpn.52oupa.com
