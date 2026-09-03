@@ -1524,7 +1524,6 @@
 *.ae1.indevs.in
 *.aecd74796f0ff8d20255d3286ec5cd89bf989b12.com
 *.aecoe.xyz
-*.affcdn.net
 *.affiliatescn.net
 *.affntowl.com
 *.affsoft.cc
@@ -1660,7 +1659,6 @@
 *.akylah.zapto.org
 *.alarmstat.click
 *.albertcoolters.server.warhawkenterprises.com
-*.alexahub.net
 *.alfavpn.ru
 *.alflebear.cn
 *.alfsf4.xyz
@@ -1734,7 +1732,6 @@
 *.amnezia.org
 *.amnzstrg01.blob.core.windows.net
 *.amongusinreallifesussus.netlify.app
-*.amopython.shop
 *.amosstudios.com
 *.amosvpn.com
 *.amplify.info.north-kazakhstan.su.cdn.cloudflare.net
@@ -6787,9 +6784,6 @@
 *.fern.mine.bz
 *.fern.r4ash.work.gd
 *.fern.ub.phuri.cc
-*.fern2.allisons.org
-*.fern3.allisons.org
-*.fern4.allisons.org
 *.fernrecatquestionmark.shop
 *.ferns.and.leaves.spacejamhd.com
 *.ferny.pxi-fusion.com.cdn.cloudflare.net
@@ -10089,7 +10083,6 @@
 *.mamas-garden-market.com
 *.man.destroyerkisscover.com.br
 *.man.info.north-kazakhstan.su.cdn.cloudflare.net
-*.management.alexpollard.net
 *.manchaland.clubskunk.com
 *.mandarin.chinapoem.org
 *.mangojiasu.com
@@ -11212,9 +11205,7 @@
 *.oculta.me
 *.odeum.zelator.cloud-ip.cc
 *.ododep.ru
-*.odoh-target-noads-se.alekberg.net
 *.odoh-target-noads.alekberg.net
-*.odoh-target-se.alekberg.net
 *.odoh-target.alekberg.net
 *.odpi3ekk.com
 *.odvr.nic.cz
@@ -13213,7 +13204,6 @@
 *.shipboard.ir
 *.shitblocker.com
 *.shiva-app.io
-*.shoolikedimnatoqourus.aiq-test.ru
 *.shop-books-school.vercel.app
 *.shop.aeroantenna.com
 *.shop.canalspa.cl
@@ -18131,7 +18121,6 @@ ae-fuj-w-p-4.nashkan.net
 ae1.indevs.in
 aecd74796f0ff8d20255d3286ec5cd89bf989b12.com
 aecoe.xyz
-affcdn.net
 affiliatescn.net
 affntowl.com
 affsoft.cc
@@ -18267,7 +18256,6 @@ akunssh.net
 akylah.zapto.org
 alarmstat.click
 albertcoolters.server.warhawkenterprises.com
-alexahub.net
 alfavpn.ru
 alflebear.cn
 alfsf4.xyz
@@ -18341,7 +18329,6 @@ amnezia-warp.vercel.app
 amnezia.org
 amnzstrg01.blob.core.windows.net
 amongusinreallifesussus.netlify.app
-amopython.shop
 amosstudios.com
 amosvpn.com
 amplify.info.north-kazakhstan.su.cdn.cloudflare.net
@@ -23394,9 +23381,6 @@ fern.best
 fern.mine.bz
 fern.r4ash.work.gd
 fern.ub.phuri.cc
-fern2.allisons.org
-fern3.allisons.org
-fern4.allisons.org
 fernrecatquestionmark.shop
 ferns.and.leaves.spacejamhd.com
 ferny.pxi-fusion.com.cdn.cloudflare.net
@@ -26696,7 +26680,6 @@ malvino.ru
 mamas-garden-market.com
 man.destroyerkisscover.com.br
 man.info.north-kazakhstan.su.cdn.cloudflare.net
-management.alexpollard.net
 manchaland.clubskunk.com
 mandarin.chinapoem.org
 mangojiasu.com
@@ -27819,9 +27802,7 @@ octovpn.net
 oculta.me
 odeum.zelator.cloud-ip.cc
 ododep.ru
-odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odpi3ekk.com
 odvr.nic.cz
@@ -29820,7 +29801,6 @@ shinano.anime.com.my
 shipboard.ir
 shitblocker.com
 shiva-app.io
-shoolikedimnatoqourus.aiq-test.ru
 shop-books-school.vercel.app
 shop.aeroantenna.com
 shop.canalspa.cl
